@@ -1,7 +1,0 @@
-{
-  "generator-azuresfcsharp": {
-    "projName": "server",
-    "frameworkType": "Reliable Actor Service",
-    "author": "<your name>"
-  }
-}
